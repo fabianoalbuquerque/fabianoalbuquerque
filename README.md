@@ -4,7 +4,7 @@ I'm a college student in software development.
 
 I have tried daily to improve myself in backend technologies such us:
 
-# Javascript
+## Javascript
 # Typescript
 # Node Js
 # MySQL
